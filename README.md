@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="letmeask" title="letmeask" src=".github/mockup.png" />
+  <img alt="letmeask" title="letmeask" src="Github/todolist.gif" />
 </p>
 
 ## ✨ Tecnologias
